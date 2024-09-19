@@ -1,0 +1,17 @@
+.main-body{
+    background-color: lavender;
+    text-align: justify;
+    h5{
+        font-family: "Roboto", regular;
+        font-weight: 400;
+        font-style: italic;
+    }
+}
+
+.left{
+    width: 50vw
+}
+
+.right{
+    width: 50vw
+}
