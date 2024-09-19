@@ -1,6 +1,7 @@
 .main-body{
     background-color: lavender;
     text-align: justify;
+    display: flex;
     h5{
         font-family: "Roboto", regular;
         font-weight: 400;
